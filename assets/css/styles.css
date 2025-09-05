@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+/* Global Styles */
+
+:root {
+    --primary-font: 'sansation', cursive;
+    --secondary-font: 'atkinson-hyperlegible-mono', sans-serif;
+    --primary-color: #447009; /* A shade of green */
+    --secondary-color: #350970; /* A shade of purple */
+    --font-color: #5f2323; /* Dark gray for text */
+}
+
+.container, .row {
+    border: 2px solid red; /* Debugging borders */
+}
+.col-12 {
+    border: 2px solid blue; /* Debugging borders */
+}
+body {
+    font-family: var(--primary-font);
+    color: var(--font-color);
+}
