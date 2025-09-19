@@ -5,14 +5,18 @@
 :root {
     --primary-font: 'sansation', cursive;
     --secondary-font: 'atkinson-hyperlegible-mono', sans-serif;
-    --primary-color: #243114; /* A shade of green */
-    --secondary-color: #3F5523; /* A shade of purple */
+    --primary-color: #575b5f; /* A shade of green */
+    --secondary-color: #a4b4a4; /* A shade of purple */
     --font-color: #5f2323; /* Dark gray for text */
 }
 
 h1 {
     font-family: var(--primary-font);
     color: var(--primary-color);
+}
+
+body {
+    background-color: var(--secondary-color);
 }
 /* Navbar Styles */
 #navbar {
@@ -21,6 +25,13 @@ h1 {
 
 #navbar .logo {
     width: 30px; 
+}
+
+#link {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: var(--secondary-font);
 }
 /*
 .container, .row {
