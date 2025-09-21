@@ -5,26 +5,38 @@
 :root {
     --primary-font: 'sansation', cursive;
     --secondary-font: 'atkinson-hyperlegible-mono', sans-serif;
-    --primary-color: #575b5f; /* A shade of green */
-    --secondary-color: #a4b4a4; /* A shade of purple */
-    --font-color: #5f2323; /* Dark gray for text */
+    --primary-color: #105f167f;
+    /* A shade of green */
+    --secondary-color: #2a3232;
+    /* A shade of purple */
+    --font-color: #5e8d63;
+    --background-image: url('../images/construction-site-night.jpg');
+
+    /* Dark gray for text */
 }
 
 h1 {
     font-family: var(--primary-font);
-    color: var(--primary-color);
+    color: rgb(74, 73, 73);
 }
 
 body {
-    background-color: var(--secondary-color);
+    background-image: var(--background-image);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
 }
+
 /* Navbar Styles */
 #navbar {
     background-color: var(--primary-color);
+
 }
 
 #navbar .logo {
-    width: 30px; 
+    width: 30px;
 }
 
 #link {
@@ -32,6 +44,33 @@ body {
     text-decoration: none;
     margin: 0 15px;
     font-family: var(--secondary-font);
+}
+
+/* Index Styles */
+
+.about {
+  background-color: rgba(255, 255, 255, 0.45); /* white with 45% opacity */
+  padding: 1rem 3rem 2rem 3rem;
+  border-radius: 10px;
+}
+
+
+p {
+    font-family: var(--secondary-font);
+    color: rgb(10, 9, 9);
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+    color: whitesmoke
+}
+
+#media-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
 }
 /*
 .container, .row {
@@ -44,4 +83,3 @@ body {
     font-family: var(--primary-font);
     color: var(--font-color);
 } */
-
