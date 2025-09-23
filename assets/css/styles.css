@@ -5,7 +5,7 @@
 :root {
     --primary-font: 'sansation', cursive;
     --secondary-font: 'atkinson-hyperlegible-mono', sans-serif;
-    --primary-color: #105f167f;
+    --primary-color: #105f16;
     /* A shade of green */
     --secondary-color: #2a3232;
     /* A shade of purple */
@@ -17,7 +17,7 @@
 
 h1 {
     font-family: var(--primary-font);
-    color: rgb(74, 73, 73);
+    color: #FFFFF0;
 }
 
 body {
@@ -49,11 +49,20 @@ body {
 /* Index Styles */
 
 .about {
-  background-color: rgba(255, 255, 255, 0.45); /* white with 45% opacity */
-  padding: 1rem 3rem 2rem 3rem;
-  border-radius: 10px;
+    background: rgba(16, 95, 22, 0.2);
+    /* #105f16 with 20% opacity */
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.9px);
+    -webkit-backdrop-filter: blur(4.9px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+.about p {
+    color: #FFFFF0;
+    font-weight: bold;
+    padding: 24px;
+}
 
 p {
     font-family: var(--secondary-font);
@@ -62,11 +71,90 @@ p {
     line-height: 1.6;
 }
 
-.cta-button a:hover { /* Hover effect for buttons */
-    background-color: transparent; /* or any color you prefer */
+.cta-button a:hover {
+    /* Hover effect for buttons */
+    background-color: transparent;
+    /* or any color you prefer */
     color: white;
     transform: scale(1.05);
     transition: all 0.3s ease-in-out;
+}
+
+/* Software Page Styles */
+
+.base {
+    /* From https://css.glass */
+    background: rgba(16, 95, 22, 0.2);
+    /* #105f16 with 20% opacity */
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.9px);
+    -webkit-backdrop-filter: blur(4.9px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #FFFFF0;
+}
+
+.pro {
+    /* From https://css.glass */
+    background: rgba(16, 95, 22, 0.2);
+    /* #105f16 with 20% opacity */
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.9px);
+    -webkit-backdrop-filter: blur(4.9px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 24px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #FFFFF0
+}
+
+.base-card {
+    background: transparent;
+    border: 0px;
+    color: #FFFFF0
+}
+
+.base-card ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+.base-card h5 {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.base h3 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.pro h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.pro p {
+    color: red;
+}
+
+#register {
+    font-family: var(--secondary-font);
+    color: #FFFFF0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-register {
+    font-family: var(--secondary-font);
+    font-size: 1rem;
+    font-weight: bold;
+    color: #FFFFF0;
+    background-color: var(--primary-color);
 }
 
 /* Footer Styles */
@@ -79,6 +167,7 @@ footer {
     text-decoration: none;
     margin: 0 10px;
 }
+
 /*
 .container, .row {
     border: 2px solid red; /* Debugging borders 
