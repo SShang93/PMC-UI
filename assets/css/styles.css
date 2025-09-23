@@ -157,6 +157,33 @@ p {
     background-color: var(--primary-color);
 }
 
+/* Register Page Styles */
+
+.glass {
+    background: rgba(16, 95, 22, 0.2);
+    /* #105f16 with 20% opacity */
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.9px);
+    -webkit-backdrop-filter: blur(4.9px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 24px;
+    color: #FFFFF0;
+}
+
+.booking-form {
+    font-family: var(--secondary-font);
+    color: #FFFFF0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.glass h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
 /* Footer Styles */
 footer {
     color: whitesmoke
