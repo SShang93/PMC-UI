@@ -241,16 +241,5 @@ body {
     background-position: center;
   }
   /* Adjust background properties for mobile devices */
-  body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    z-index: -1;                   /* sit behind all content */
-    background-image: var(--background-image); /* you already set this */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    will-change: transform;        /* iOS rendering hint */
-    transform: translateZ(0);
-  }
+  
 }
