@@ -207,7 +207,7 @@ body {
     color: var(--font-color);
 } */
 
-@media (min-width: 320px) and (max-width: 425px) {
+@media (min-width: 320px) and (max-width: 768px) {
     .about {
         padding: 16px -16px 24px -16px;
         margin-left: 12px;
