@@ -27,6 +27,7 @@ body {
     background-attachment: fixed;
     margin: 0;
     padding: 0;
+    padding-top: 70px;
 }
 
 /* Navbar Styles */
@@ -118,8 +119,8 @@ p {
 }
 
 .base-card ul {
-    list-style-type: none;
-    text-align: right;
+    list-style-type: disc;
+    text-align: left;
 }
 
 .base-card h5 {
@@ -139,7 +140,7 @@ p {
 }
 
 .pro p {
-    color: red;
+    color: #889c88;
 }
 
 #register {
@@ -155,6 +156,13 @@ p {
     font-weight: bold;
     color: #FFFFF0;
     background-color: var(--primary-color);
+}
+
+.ps-header {
+    color: #FFFFF0;
+    font-family: var(--primary-font);
+    font-weight: bolder;
+    font-size: 3rem;
 }
 
 /* Register Page Styles */
