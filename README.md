@@ -4,4 +4,4 @@
 
 This is the main website for PMC (Precision Management for Construction). This website is to attract potential clients who own small to medium size construction companies, who are looking for a cheaper alternative to a management software to help run their business. The website is desinged to be responsive and accesible to a range of devices that can connect to the internet. 
 
-![Responsive design](https://drive.google.com/path/to/responsive-img.png)
+![Responsive design](https://drive.google.com/drive/my-drive/responsive-img.png)
