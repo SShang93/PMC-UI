@@ -94,7 +94,7 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 ![competion validator](assets/images/completion-html-validator.png)
 
 [WS3 CSS Validator](https://jigsaw.w3.org/css-validator/)
-
+![CSS validator](assets/images/css-validator.png)
 
 #### Testing user stories from UX section
 
