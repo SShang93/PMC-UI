@@ -87,4 +87,8 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 - Results for the software.html page: warning is for the lack of h2 heading within a section, this is a design choice
 ![Responsive design](assets/images/software-html-validator.png)
 
+-Results for the register.html: No errors with code
+![Responsive design](assets/images/register-html-validator.png)
 
+- Results for the completion.html: No errors with code
+![Responsive design](assets/images/completion-html-validator.png)
