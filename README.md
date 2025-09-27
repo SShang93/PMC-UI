@@ -44,5 +44,36 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 - The website is responsive on all devices
 - There elements within the website that will need the user to interact with 
 
+### Technologies used
+---
+
+##### Languages 
+- HTML5
+-CSS3
+
+##### Frameworks, Libraries & Programs used
+
+- Bootstrap 5.3.3
+Used to make sure that the website is responsive on all devices and used for the styling. 
+
+- Hover:css
+Used to make the call to action buttons on the pages on the website transparent when the cursor is over it making it unambiguos to users on where to go next after the landing page
+
+- Google fonts
+Used to import 'Sansation' for the heading on each page and 'atkinson-hyperlegible-mono' for the main font for content in the div elements 
+
+- Font awesome
+Used for the social media links in the footer, and is a link to the homepage in the nav bar to the left. Icons used to enhace the UX aimimg to make the website aesthetically pleasing
+
+- Git
+Version control was managed using Git through the Gitpod terminal, with changes committed locally and pushed to GitHub.
+
+- Github
+Used to store the code for the project after it was pushed using Git
+
+- Balsamic
+Used to create the wireframe during the design stage of the website 
+
+
 
 
