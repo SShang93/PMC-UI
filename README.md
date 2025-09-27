@@ -53,26 +53,26 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ##### Frameworks, Libraries & Programs used
 <dl>
-<dt>- Bootstrap 5.3.3</dt>
+<dt>Bootstrap 5.3.3</dt>
 <dd>Used to make sure that the website is responsive on all devices and used for the styling.<dd>
 
-- Hover:css
-Used to make the call to action buttons on the pages on the website transparent when the cursor is over it making it unambiguos to users on where to go next after the landing page
+<dt>Hover:css<dt>
+<dd>Used to make the call to action buttons on the pages on the website transparent when the cursor is over it making it unambiguos to users on where to go next after the landing page<dd>
 
-- Google fonts
-Used to import 'Sansation' for the heading on each page and 'atkinson-hyperlegible-mono' for the main font for content in the div elements 
+<dt>Google fonts</dt>
+<dd>Used to import 'Sansation' for the heading on each page and 'atkinson-hyperlegible-mono' for the main font for content in the div elements</dd>
 
-- Font awesome
-Used for the social media links in the footer, and is a link to the homepage in the nav bar to the left. Icons used to enhace the UX aimimg to make the website aesthetically pleasing
+<dt>Font awesome</dt>
+<dd>Used for the social media links in the footer, and is a link to the homepage in the nav bar to the left. Icons used to enhace the UX aimimg to make the website aesthetically pleasing</dd>
 
-- Git
-Version control was managed using Git through the Gitpod terminal, with changes committed locally and pushed to GitHub.
+<dt>Git</dt>
+<dd>Version control was managed using Git through the Gitpod terminal, with changes committed locally and pushed to GitHub.</dd>
 
-- Github
-Used to store the code for the project after it was pushed using Git
+<dt>Github</dt>
+<dd>Used to store the code for the project after it was pushed using Git</dd>
 
-- Balsamic
-Used to create the wireframe during the design stage of the website 
+<dt>Balsamic</dt>
+<dd>Used to create the wireframe during the design stage of the website</dd>
 </dl>
 
 
