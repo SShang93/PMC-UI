@@ -1,4 +1,4 @@
-# Precision Software for construction
+# Precision Management for construction
 ---
 [Visit website here](https://sshang93.github.io/PMC-UI/)
 
@@ -80,8 +80,8 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project 
 
-[WS3 HTML Validator](https://validator.w3.org/nu/#textarea) 
-<img src='assets/images/index-html-validator.png'>
+[WS3 HTML Validator](https://validator.w3.org/nu/#textarea) ![Responsive design](assets/images/responsive-img.png)
+
 
 
 
