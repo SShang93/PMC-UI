@@ -92,3 +92,9 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 - Results for the completion.html: No errors with code
 ![competion validator](assets/images/completion-html-validator.png)
+
+[WS3 CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+
+#### Testing user stories from UX section
+

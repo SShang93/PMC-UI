@@ -211,21 +211,9 @@ footer {
     margin: 0 10px;
 }
 
-/*
-.container, .row {
-    border: 2px solid red; /* Debugging borders 
-}
-.col-12 {
-    border: 2px solid blue; /* Debugging borders 
-}
-body {
-    font-family: var(--primary-font);
-    color: var(--font-color);
-} */
-
 @media (min-width: 320px) and (max-width: 768px) {
     .about {
-        padding: 16px -16px 24px -16px;
+        padding: 16px 0px 24px 0px;
         margin-left: 12px;
         margin-right: 12px;
     }
