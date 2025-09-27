@@ -81,10 +81,10 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project 
 
 [WS3 HTML Validator](https://validator.w3.org/nu/#textarea) 
-- Results for the index page, the warnings are for the lack of heading tags in the section, this is by design choice to not have a heading within the warning highlighted. 
+- Results for the index page: the warnings are for the lack of heading tags in the section, this is by design choice to not have a heading within the warning highlighted. 
 ![Responsive design](assets/images/index-html-validator.png)
 
-- Results for the software.html page, warning is for the lack of h2 heading within a section, this is a design choice
+- Results for the software.html page: warning is for the lack of h2 heading within a section, this is a design choice
 ![Responsive design](assets/images/software-html-validator.png)
 
 
