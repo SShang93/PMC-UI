@@ -52,9 +52,9 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 -CSS3
 
 ##### Frameworks, Libraries & Programs used
-
-- Bootstrap 5.3.3
-Used to make sure that the website is responsive on all devices and used for the styling. 
+<dl>
+<dt>- Bootstrap 5.3.3</dt>
+<dd>Used to make sure that the website is responsive on all devices and used for the styling.<dd>
 
 - Hover:css
 Used to make the call to action buttons on the pages on the website transparent when the cursor is over it making it unambiguos to users on where to go next after the landing page
@@ -73,7 +73,7 @@ Used to store the code for the project after it was pushed using Git
 
 - Balsamic
 Used to create the wireframe during the design stage of the website 
-
+</dl>
 
 
 
