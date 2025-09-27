@@ -12,13 +12,22 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ### User Stories
 
-1 First time visitor goals
+1. First time visitor goals
 
 - As a first time user i want to be able to know what product the website offers
 - As a first time user i want the website to be easy to navigate
 - As a first time user i want to be able to get leave my details so enquire about the product further 
 
-2 Returning visitor goals
+2. Returning visitor goals
 
 - As a returning visitor i want to leave my details for further enquiry
 - As a returning visitor i want to be able to click on social media links
+
+3. Frequent user goals
+
+- As a frequent user i want make sure the product details are updated when SaaS has been purchased
+
+### Design
+
+- Colour Scheme - The two main colours of the website are a dark green, and white 
+
