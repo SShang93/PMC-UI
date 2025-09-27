@@ -32,5 +32,6 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 ##### Colour Scheme 
 - The two main colours of the website are a dark green, and white. The white to contrast against the background picture and dark green. There is also a transparent, glass effect on div elements through out the design of the website. The effect have a shade of dark green so the design is consistent throughout the website. 
 ##### Typogoraphy
-- 
+- The 'sansation' font (primary font) is used only for the heading on website pages, and 'atkinson-hyperlegible-mono'(secondary font) is used for the main content in the div elements. It keeps the site looking proffesional and making the desing of the website consistent
+
 

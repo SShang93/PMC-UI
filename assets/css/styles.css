@@ -3,8 +3,8 @@
 /* Global Styles */
 
 :root {
-    --primary-font: 'sansation', cursive;
-    --secondary-font: 'atkinson-hyperlegible-mono', sans-serif;
+    --primary-font: 'sansation', sans-serif;
+    --secondary-font: 'atkinson-hyperlegible-mono', monospace;
     --primary-color: #105f16; /
     /* A shade of green */
     --secondary-color: #2a3232;
