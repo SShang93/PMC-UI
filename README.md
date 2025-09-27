@@ -81,14 +81,11 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project 
 
 [WS3 HTML Validator](https://validator.w3.org/nu/#textarea) 
-- [Result: index](https://validator.w3.org/nu/#textarea)
-- [Result: software](https://validator.w3.org/nu/#textarea)
-- [Result](https://validator.w3.org/nu/#textarea)
-- [Result](https://validator.w3.org/nu/#textarea)
+
 
 | [WS3 HTML Validator](https://validator.w3.org/nu/#textarea)      | Results           |
 | ------------- |:-------------:|
-| Index.html     | [![Responsive design](assets/images/index-html-validator.png) |
+| Index.html     |  |
 | software.html     |      |
 | register.html|      |
 | completion.html| |
