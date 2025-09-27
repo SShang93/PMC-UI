@@ -88,7 +88,7 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 | [WS3 HTML Validator](https://validator.w3.org/nu/#textarea)      | Results           |
 | ------------- |:-------------:|
-| Index.html     | (https://validator.w3.org/nu/#textarea) |
+| Index.html     | [![Responsive design](assets/images/index-html-validator.png)](assets/images/index-html-validator.png) |
 | software.html     |      |
 | register.html|      |
 | completion.html| |
