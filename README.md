@@ -34,5 +34,15 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 ##### Typogoraphy
 - The 'sansation' font (primary font) is used only for the heading on website pages, and 'atkinson-hyperlegible-mono'(secondary font) is used for the main content in the div elements. It keeps the site looking proffesional and making the desing of the website consistent
 ##### Imagery
--The background image makes sure the user knows the webiste is construction related, also it helps with the design and the constrasting colours used. 
+- The background image makes sure the user knows the webiste is construction related, also it helps with the design and the constrasting colours used. 
+
+##### Wireframes
+
+### Features
+---
+
+- The website is responsive on all devices
+- There elements within the website that will need the user to interact with 
+
+
 
