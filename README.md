@@ -29,5 +29,6 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ### Design
 
-- Colour Scheme - The two main colours of the website are a dark green, and white 
+- Colour Scheme 
+- The two main colours of the website are a dark green, and white 
 
