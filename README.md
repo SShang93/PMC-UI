@@ -199,4 +199,31 @@ git clone https://github.com/username/repository-name.git
 
 Alternatively click the [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) for a more detailed procedure to clone the repository. 
 
+## Credits
+---
+
+### Code
+
+- Background picture sourced from [freepic](https://www.freepik.com/).
+
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/), used throughout the website to make it responsive on different devices and for the grid system. 
+
+- [Looka](https://looka.com/logo-maker/), used for the logo in the footer.
+
+- [Glass Morphism](https://css.glass/), used for the glass effect on important information on the website.
+
+- [Font awesome](https://fontawesome.com/search?q=globr&f=classic&s=solid&ic=free&o=r), used for the icons in the nav bar and the footer.
+
+### Content 
+
+- All content was written by the developer
+
+### Media 
+
+- None
+
+### Acknowledgement 
+
+- None
+
 
