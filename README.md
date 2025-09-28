@@ -2,7 +2,7 @@
 ---
 [Visit website here](https://sshang93.github.io/PMC-UI/)
 
-This is the main website for PMC (Precision Management for Construction), a SaaS management platform. This website is to attract potential clients who own small to medium size construction companies, who are looking for a cheaper alternative to a management software to help run their business. The website is desinged to be responsive and accesible to a range of devices that can connect to the internet. 
+This is the main website for PMC (Precision Management for Construction), a SaaS management platform for construction. This website is to attract potential clients who own small to medium size construction companies, who are looking for a cheaper alternative to a management software to help run their business. The website is desinged to be responsive and accesible to a range of devices that can connect to the internet. 
 
 ![Responsive design](assets/images/responsive-img.png)
 ---
@@ -108,7 +108,7 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 2. As a first time user i want the website to be easy to navigate
 
-- When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without be ambiguous. 
+- When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without being ambiguous. 
 
 - The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website. 
 
