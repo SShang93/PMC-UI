@@ -49,7 +49,7 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ##### Languages 
 - HTML5
--CSS3
+- CSS3
 
 ##### Frameworks, Libraries & Programs used
 <dl>
@@ -97,4 +97,22 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 ![CSS validator](assets/images/css-validator.png)
 
 #### Testing user stories from UX section
+
+- ##### First time visitor goals
+
+1 As a first time user i want to be able to know what product the website offers
+
+- When the user enters the pages, they are welcomed by a clean and clear message of what the website has to offer and straight to the point. Underneath the welcoming message there are two call to action buttons which will take the user to further explore the webiste. 
+
+- The products of the website will offer are two call to action buttons, one on the nav bar and another button underneath the welcome on the landing page. The page where the products are offered gives the user exactly what they want. information on the products and a option to enquire about aquiring the software.  
+
+1 As a first time user i want the website to be easy to navigate
+
+- When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without be ambiguous. 
+
+- The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website. 
+
+1 As a first time user i want to be able to get leave my details so enquire about the product further 
+
+- The user can enquire about the products on the website straight from the landing page, it is one of two buttons under the welcome message
 
