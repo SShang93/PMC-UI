@@ -211,6 +211,12 @@ footer {
     margin: 0 10px;
 }
 
+#media-links a:hover {
+    color: var(--primary-color);
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
+}
+
 @media (min-width: 320px) and (max-width: 768px) {
     .about {
         padding: 16px 0px 24px 0px;
