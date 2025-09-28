@@ -106,13 +106,29 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 - The products of the website will offer are two call to action buttons, one on the nav bar and another button underneath the welcome on the landing page. The page where the products are offered gives the user exactly what they want. information on the products and a option to enquire about aquiring the software.  
 
-1 As a first time user i want the website to be easy to navigate
+2 As a first time user i want the website to be easy to navigate
 
 - When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without be ambiguous. 
 
 - The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website. 
 
-1 As a first time user i want to be able to get leave my details so enquire about the product further 
+3 As a first time user i want to be able to get leave my details so enquire about the product further 
 
 - The user can enquire about the products on the website straight from the landing page, it is one of two buttons under the welcome message
+
+- ##### Returning visitor goals
+
+1 As a returning visitor i want to leave my details for further enquiry
+
+- The user has two options to enquire about the product, on the navigation bar under 'register' and a call to action button beneath the welcome messages on the landing page
+
+2 As a returning visitor i want to be able to click on social media links
+
+- The user has the option to visit the social media of the company in the footer of all the pages on the website
+
+- ##### Frequent visitor goals
+
+- once the user has purchased the software, the user will have been sent login details for a seperate website with  a dashboard for the software they have purchased. 
+
+
 
