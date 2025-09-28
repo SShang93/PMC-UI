@@ -38,20 +38,20 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ##### Wireframes
 
-### Features
+## Features
 ---
 
 - The website is responsive on all devices
 - There elements within the website that will need the user to interact with 
 
-### Technologies used
+## Technologies used
 ---
 
-##### Languages 
+#### Languages 
 - HTML5
 - CSS3
 
-##### Frameworks, Libraries & Programs used
+#### Frameworks, Libraries & Programs used
 <dl>
 <dt>Bootstrap 5.3.3</dt>
 <dd>Used to make sure that the website is responsive on all devices and used for the styling.<dd>
@@ -75,7 +75,7 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 <dd>Used to create the wireframe during the design stage of the website</dd>
 </dl>
 
-### Testing
+## Testing
 ---
 
 W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project 
@@ -96,39 +96,107 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 [WS3 CSS Validator](https://jigsaw.w3.org/css-validator/)
 ![CSS validator](assets/images/css-validator.png)
 
-#### Testing user stories from UX section
+### Testing user stories from UX section
 
-- ##### First time visitor goals
+- #### First time visitor goals
 
-1 As a first time user i want to be able to know what product the website offers
+1. As a first time user i want to be able to know what product the website offers
 
 - When the user enters the pages, they are welcomed by a clean and clear message of what the website has to offer and straight to the point. Underneath the welcoming message there are two call to action buttons which will take the user to further explore the webiste. 
 
 - The products of the website will offer are two call to action buttons, one on the nav bar and another button underneath the welcome on the landing page. The page where the products are offered gives the user exactly what they want. information on the products and a option to enquire about aquiring the software.  
 
-2 As a first time user i want the website to be easy to navigate
+2. As a first time user i want the website to be easy to navigate
 
 - When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without be ambiguous. 
 
 - The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website. 
 
-3 As a first time user i want to be able to get leave my details so enquire about the product further 
+3. As a first time user i want to be able to get leave my details so enquire about the product further 
 
 - The user can enquire about the products on the website straight from the landing page, it is one of two buttons under the welcome message
 
-- ##### Returning visitor goals
+- #### Returning visitor goals
 
-1 As a returning visitor i want to leave my details for further enquiry
+1. As a returning visitor i want to leave my details for further enquiry
 
 - The user has two options to enquire about the product, on the navigation bar under 'register' and a call to action button beneath the welcome messages on the landing page
 
-2 As a returning visitor i want to be able to click on social media links
+2. As a returning visitor i want to be able to click on social media links
 
 - The user has the option to visit the social media of the company in the footer of all the pages on the website
 
-- ##### Frequent visitor goals
+- #### Frequent visitor goals
 
-- once the user has purchased the software, the user will have been sent login details for a seperate website with  a dashboard for the software they have purchased. 
+- Once the user has purchased the software, the user will have been sent login details for a seperate website with  a dashboard for the software they have purchased. 
 
+### Further Testing
+
+- Website tested on mutliple browsers: chrome, firefox and safari
+- Website has been tested on multiple devices: laptop, iphone and ipad
+- Most of the testing on the website was to done to ensure the website is responsive on multiple devices, and making sure the links to each of the page worked the way it was intended to do 
+- Close friends and families were used to test the website, pointing out any faults and if they found the website easy to navigate
+
+### Known bugs
+
+- On mobile devices the call to action buttons on the landing page would merge together, making it one large block and looked messy. A media query was added to the CSS to make sure when the web page was accesed through mobile devices the buttons would be seperate and on top of each other. 
+
+- The navigation button on software and register pages were not working on ipad and mobile devices.
+
+## Deployment
+---
+
+### Github pages
+
+#### Deploying the Project to GitHub Pages
+
+To deploy the project to GitHub Pages, follow these steps:
+
+- Log in to [GitHub](https://github.com/) and navigate to the repository where your project is hosted.
+
+- In the repository menu (just below the repo name), click the "Settings" tab.
+
+- Scroll down the Settings page until you find the "GitHub Pages" section.
+
+- Under the "Source" dropdown (which initially says "None"), select "Master branch".
+
+- The page will automatically refresh once the source is set.
+
+- Scroll back down to the GitHub Pages section — you’ll now see a link to your live site.
+
+#### Forking the github repository
+
+Forking a GitHub repository creates a copy of the original project in your own GitHub account. This allows you to view or modify the code without affecting the original repository. Follow these steps:
+
+- Log in to GitHub and navigate to the repository you want to fork.
+
+- At the top of the repository page (just above the "Settings" button in the menu), click the "Fork" button.
+
+- GitHub will create a copy of the repository in your account. You can now work on this version independently of the original.
+
+### Making a local clone 
+
+- Go to the GitHub repository you want to clone.
+(Example: https://github.com/username/repository-name)
+
+- Click the green <> Code button near the top right.
+
+- Copy the URL under "HTTPS" (e.g., https://github.com/username/repository-name.git).
+
+- Open Git Bash (or your terminal).
+
+- Navigate to the folder where you want to save the project:
+
+cd path/to/your/folder
+
+
+- Run the git clone command:
+
+git clone https://github.com/username/repository-name.git
+
+
+- Git will download the repository into a new folder named after the repo.
+
+Alternatively click the [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) for a more detailed procedure to clone the repository. 
 
 
