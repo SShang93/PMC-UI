@@ -67,7 +67,7 @@ body {
 
 p {
     font-family: var(--secondary-font);
-    color: rgb(10, 9, 9);
+    color: #FFFFF0;
     font-size: 1.2rem;
     line-height: 1.6;
 }
@@ -148,7 +148,7 @@ p {
 }
 
 .pro p {
-    color: #889c88;
+    color: #FFFFF0;
 }
 
 #register {
