@@ -38,6 +38,14 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ##### Wireframes
 
+- [Mobile Wireframe](assets/images/mobile-wireframe.png)
+
+- [iPad Wireframe](assets/images/ipad-wireframe.png)
+
+- [Browser Wireframe](assets/images/browser-wireframe.png)
+
+The wireframes above were the initial part of the design process.
+
 ## Features
 ---
 
