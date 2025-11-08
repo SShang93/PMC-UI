@@ -50,7 +50,7 @@ body {
 /* Index Styles */
 
 .about {
-    background: rgba(16, 95, 22, 0.2);
+    background: rgba(94, 94, 94, 0.2);
     /* #105f16 with 20% opacity */
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -91,7 +91,7 @@ p {
 
 .base {
     /* From https://css.glass */
-    background: rgba(16, 95, 22, 0.2);
+    background: rgba(94, 94, 94, 0.2);
     /* #105f16 with 20% opacity */
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -106,7 +106,7 @@ p {
 
 .pro {
     /* From https://css.glass */
-    background: rgba(16, 95, 22, 0.2);
+    background: rgba(94, 94, 94, 0.2);
     /* #105f16 with 20% opacity */
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -176,7 +176,7 @@ p {
 /* Register Page Styles */
 
 .glass {
-    background: rgba(16, 95, 22, 0.2);
+    background: rgba(94, 94, 94, 0.2);
     /* #105f16 with 20% opacity */
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -202,7 +202,11 @@ p {
 
 /* Footer Styles */
 footer {
-    color: whitesmoke
+background: rgba(0, 0, 0, 0.4);
+padding: 10px 20px;
+border-radius: 8px;
+display: inline-block;
+color: #ffffff;
 }
 
 #media-links a {
@@ -212,7 +216,7 @@ footer {
 }
 
 #media-links a:hover {
-    color: var(--primary-color);
+    color: rgba(94, 94, 94, 0.2);
     transform: scale(1.2);
     transition: all 0.3s ease-in-out;
 }

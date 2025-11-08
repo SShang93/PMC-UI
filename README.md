@@ -1,13 +1,15 @@
 # Precision Management for construction
+
 ---
 [Visit website here](https://sshang93.github.io/PMC-UI/)
 
-This is the main website for PMC (Precision Management for Construction), a SaaS management platform for construction. This website is to attract potential clients who own small to medium size construction companies, who are looking for a cheaper alternative to a management software to help run their business. The website is desinged to be responsive and accesible to a range of devices that can connect to the internet. 
+This is the main website for PMC (Precision Management for Construction), a SaaS management platform for construction. This website is to attract potential clients who own small to medium size construction companies, who are looking for a cheaper alternative to a management software to help run their business. The website is desinged to be responsive and accesible to a range of devices that can connect to the internet.
 
-![Responsive design](assets/images/responsive-img.png)
+![Responsive design](assets/images/responsive-img-2.png)
 ---
 
 ## User Experience
+
 ---
 
 ### User Stories
@@ -16,7 +18,7 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 - As a first time user i want to be able to know what product the website offers
 - As a first time user i want the website to be easy to navigate
-- As a first time user i want to be able to get leave my details so enquire about the product further 
+- As a first time user i want to be able to get leave my details so enquire about the product further
 
 2. Returning visitor goals
 
@@ -29,12 +31,17 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 
 ### Design
 
-##### Colour Scheme 
-- The two main colours of the website are a dark green, and white. The white to contrast against the background picture and dark green. There is also a transparent, glass effect on div elements through out the design of the website. The effect have a shade of dark green so the design is consistent throughout the website. 
+##### Colour Scheme
+
+- The two main colours of the website are black and white. The white to contrast against the dark background picture. There is also a transparent, glass effect on div elements through out the design of the website. The effect have a shade of dark grey so the design is consistent throughout the website.
+
 ##### Typogoraphy
+
 - The 'sansation' font (primary font) is used only for the heading on website pages, and 'atkinson-hyperlegible-mono'(secondary font) is used for the main content in the div elements. It keeps the site looking proffesional and making the desing of the website consistent
+
 ##### Imagery
-- The background image makes sure the user knows the webiste is construction related, also it helps with the design and the constrasting colours used. 
+
+- The background image makes sure the user knows the webiste is construction related, also it helps with the design and the constrasting colours used.
 
 ##### Wireframes
 
@@ -47,19 +54,23 @@ This is the main website for PMC (Precision Management for Construction), a SaaS
 The wireframes above were the initial part of the design process.
 
 ## Features
+
 ---
 
 - The website is responsive on all devices
-- There elements within the website that will need the user to interact with 
+- There elements within the website that will need the user to interact with
 
 ## Technologies used
+
 ---
 
-#### Languages 
+#### Languages
+
 - HTML5
 - CSS3
 
 #### Frameworks, Libraries & Programs used
+
 <dl>
 <dt>Bootstrap 5.3.3</dt>
 <dd>Used to make sure that the website is responsive on all devices and used for the styling.<dd>
@@ -84,12 +95,14 @@ The wireframes above were the initial part of the design process.
 </dl>
 
 ## Testing
+
 ---
 
-W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project 
+W3C markup validator and W3C CSS validator were used to make sure that there are no errors with the syntax on the project
 
-[WS3 HTML Validator](https://validator.w3.org/nu/#textarea) 
-- Results for the index page: the warnings are for the lack of heading tags in the section, this is by design choice to not have a heading within the warning highlighted. 
+[WS3 HTML Validator](https://validator.w3.org/nu/#textarea)
+
+- Results for the index page: the warnings are for the lack of heading tags in the section, this is by design choice to not have a heading within the warning highlighted.
 ![index validator](assets/images/index-html-validator.png)
 
 - Results for the software.html page: warning is for the lack of h2 heading within a section, this is a design choice
@@ -110,17 +123,17 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 1. As a first time user i want to be able to know what product the website offers
 
-- When the user enters the pages, they are welcomed by a clean and clear message of what the website has to offer and straight to the point. Underneath the welcoming message there are two call to action buttons which will take the user to further explore the webiste. 
+- When the user enters the pages, they are welcomed by a clean and clear message of what the website has to offer and straight to the point. Underneath the welcoming message there are two call to action buttons which will take the user to further explore the webiste.
 
 - The products of the website will offer are two call to action buttons, one on the nav bar and another button underneath the welcome on the landing page. The page where the products are offered gives the user exactly what they want. information on the products and a option to enquire about aquiring the software.  
 
 2. As a first time user i want the website to be easy to navigate
 
-- When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without being ambiguous. 
+- When the user enters the website, the navigation is the most hightlighted part of the web page with a loud colour, the users will notice the navbar straight away. On each page of the website there are options to navigate to each page without being ambiguous.
 
-- The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website. 
+- The call to actions buttons stand out on the page with the same colour as the nav bar to make it more obvious it will take you to a certain page on the website.
 
-3. As a first time user i want to be able to get leave my details so enquire about the product further 
+3. As a first time user i want to be able to get leave my details so enquire about the product further
 
 - The user can enquire about the products on the website straight from the landing page, it is one of two buttons under the welcome message
 
@@ -136,22 +149,23 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 - #### Frequent visitor goals
 
-- Once the user has purchased the software, the user will have been sent login details for a seperate website with  a dashboard for the software they have purchased. 
+- Once the user has purchased the software, the user will have been sent login details for a seperate website with  a dashboard for the software they have purchased.
 
 ### Further Testing
 
 - Website tested on mutliple browsers: chrome, firefox and safari
 - Website has been tested on multiple devices: laptop, iphone and ipad
-- Most of the testing on the website was to done to ensure the website is responsive on multiple devices, and making sure the links to each of the page worked the way it was intended to do 
+- Most of the testing on the website was to done to ensure the website is responsive on multiple devices, and making sure the links to each of the page worked the way it was intended to do
 - Close friends and families were used to test the website, pointing out any faults and if they found the website easy to navigate
 
 ### Known bugs
 
-- On mobile devices the call to action buttons on the landing page would merge together, making it one large block and looked messy. A media query was added to the CSS to make sure when the web page was accesed through mobile devices the buttons would be seperate and on top of each other. 
+- On mobile devices the call to action buttons on the landing page would merge together, making it one large block and looked messy. A media query was added to the CSS to make sure when the web page was accesed through mobile devices the buttons would be seperate and on top of each other.
 
 - The navigation button on software and register pages were not working on ipad and mobile devices.
 
 ## Deployment
+
 ---
 
 ### Github pages
@@ -182,14 +196,14 @@ Forking a GitHub repository creates a copy of the original project in your own G
 
 - GitHub will create a copy of the repository in your account. You can now work on this version independently of the original.
 
-### Making a local clone 
+### Making a local clone
 
 - Go to the GitHub repository you want to clone.
-(Example: https://github.com/username/repository-name)
+(Example: <https://github.com/username/repository-name>)
 
 - Click the green <> Code button near the top right.
 
-- Copy the URL under "HTTPS" (e.g., https://github.com/username/repository-name.git).
+- Copy the URL under "HTTPS" (e.g., <https://github.com/username/repository-name.git>).
 
 - Open Git Bash (or your terminal).
 
@@ -197,24 +211,23 @@ Forking a GitHub repository creates a copy of the original project in your own G
 
 cd path/to/your/folder
 
-
 - Run the git clone command:
 
-git clone https://github.com/username/repository-name.git
-
+git clone <https://github.com/username/repository-name.git>
 
 - Git will download the repository into a new folder named after the repo.
 
-Alternatively click the [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) for a more detailed procedure to clone the repository. 
+Alternatively click the [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) for a more detailed procedure to clone the repository.
 
 ## Credits
+
 ---
 
 ### Code
 
 - Background picture sourced from [freepic](https://www.freepik.com/).
 
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/), used throughout the website to make it responsive on different devices and for the grid system. 
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/), used throughout the website to make it responsive on different devices and for the grid system.
 
 - [Looka](https://looka.com/logo-maker/), used for the logo in the footer.
 
@@ -222,16 +235,14 @@ Alternatively click the [link](https://docs.github.com/en/repositories/creating-
 
 - [Font awesome](https://fontawesome.com/search?q=globr&f=classic&s=solid&ic=free&o=r), used for the icons in the nav bar and the footer.
 
-### Content 
+### Content
 
 - All content was written by the developer
 
-### Media 
+### Media
 
 - None
 
-### Acknowledgement 
+### Acknowledgement
 
 - None
-
-
