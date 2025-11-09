@@ -129,6 +129,17 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 |Complete|![](assets/images/responsive-mobile-complete.png)|![](assets/images/responsive-tablet-complete.png)|![](assets/images/responsive-desktop-complete.png)|Pages working|
 |Footer|![](assets/images/footer-mobile-home.png)|![](assets/images/footer-tablet-home.png)|![](assets/images/footer-desktop-home.png)|Footer responsiveness working|
 
+### Browser Compatibility 
+
+---
+
+|Page  | Chrome  | Safari  | Firefox  |
+|------|---------|---------|----------|
+|Home  |![](assets/images/chrome-screenshot-home.png)|![](assets/images/safari-screenshot-home.png)|![](assets/images/firefox-screenshot-home.png)|
+|Software|![](assets/images/chrome-screenshot-software.png)|![](assets/images/safari-screenshot-software.png)|![](assets/images/firefox-screenshot-software.png)|
+|Register|![](assets/images/chrome-screenshot-register.png)|![](assets/images/safari-screenshot-register.png)|![](assets/images/firefox-screenshot-register.png)|
+|Completed|![](assets/images/chrome-screenshot-completed.png)|![](assets/images/safari-screenshot-completed.png)|![](assets/images/firefox-screenshot-completed.png)|
+
 
 ### Testing user stories from UX section
 
