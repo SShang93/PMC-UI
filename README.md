@@ -140,10 +140,37 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 |Register|![](assets/images/chrome-screenshot-register.png)|![](assets/images/safari-screenshot-register.png)|![](assets/images/firefox-screenshot-register.png)|
 |Completed|![](assets/images/chrome-screenshot-completed.png)|![](assets/images/safari-screenshot-completed.png)|![](assets/images/firefox-screenshot-completed.png)|
 
+### Functionality
+
+---
+
+|Page/Feature  | Expectaion  | Test  | Result | Screenshot|
+|--------------|-------------|-------|--------|-----------|
+|Navigation Bar|Ensure that all navigation links within the feature are operational and meet accessibility standards.|Verified that all navigation links function correctly and meet accessibility standards.|Verified that all links are accessible, operate correctly, and navigate to the appropriate sections.|![](assets/images/navbar-home.png)![](assets/images/navbar-about.png)|
+|Call to action|This feature encourages the user to either learn more about the product, the website provides and/or register interest.|Clicking the CTA button and making sure it is visible, accessible, and links to the correct page.|CTA buttons are visible, accessible, and links to the correct page. CTA buttons also highlight and enlarge when cursor hovers over it.|![](assets/images/cta-button-before.png)![](assets/images/cta-button-after.png)|
+|Register form |The form will nudge the user to make sure that the form is filled correctly| Submit a blank form.| Form was not blocked and encouraged the user to input the correct the information.|![](assets/images/blocked-form-screenshot.png)![](assets/images/blocked-form-email.png)![](assets/images/blocked-form-number.png)|
+|Social Links  | The social links will redirect the user to the companies social media accounts | Clicked on each link to see if it redirects me to social media accounts | Social media links work and redirects user to social media accounts. When user hovers over it has a transition effect it enlarges and changes colour.|![](assets/images/social-media.png)|
+
+### Lighthouse Audit
+
+---
+
+|Page  | Mobile  | Desktop|
+|------|---------|--------|
+|Index |![](assets/images/home-audit-mobile.png)|![](assets/images/home-audit-desk.png)|
+|Software|![](assets/images/software-audit-mobile.png)|![](assets/images/software-audit-desktop.png)|
+|Register|![](assets/images/form-audit-mobile.png)|![](assets/images/form-audit-desktop.png)|
+|Completed|![](assets/images/completed-audit-mob.png)|![](assets/images/completed-audit-desk.png)|
 
 ### Testing user stories from UX section
 
+---
 
+|User Story  | Target  | Expectation  | Screenshot  |
+|------------|---------|--------------|-------------|
+|Products |As a first time user | I want to be able to know what product the website offers|![](assets/images/products.png)|
+|Navigation |As a first time user | I want the website to be easy to navigate|![](assets/images/navigation.png)|
+|Form |As a first time user | I want to be able to get leave my details so enquire about the product further|![](assets/images/form.png)|
 
 ### Known bugs
 

@@ -74,7 +74,7 @@ p {
 
 .cta-button a:hover {
     /* Hover effect for buttons */
-    background-color: transparent;
+    background-color: rgba(94, 94, 94, 0.5);
     /* or any color you prefer */
     color: white;
     transform: scale(1.05);
@@ -216,7 +216,7 @@ color: #ffffff;
 }
 
 #media-links a:hover {
-    color: rgba(94, 94, 94, 0.2);
+    color: rgba(96, 122, 223, 0.5);
     transform: scale(1.2);
     transition: all 0.3s ease-in-out;
 }
