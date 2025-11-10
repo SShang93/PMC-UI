@@ -168,8 +168,8 @@ W3C markup validator and W3C CSS validator were used to make sure that there are
 
 |User Story  | Target  | Expectation  | Screenshot  |
 |------------|---------|--------------|-------------|
-|Products |As a first time user | I want to be able to know what product the website offers|![](assets/images/products.png)|
-|Navigation |As a first time user | I want the website to be easy to navigate|![](assets/images/navigation.png)|
+|Products |As a first time user | I want to be able to know what product the website offers|![](assets/images/responsive-desktop-software.png)|
+|Navigation |As a first time user | I want the website to be easy to navigate|![](assets/images/chrome-screenshot-home.png)|
 |Form |As a first time user | I want to be able to get leave my details so enquire about the product further|![](assets/images/form.png)|
 
 ### Known bugs
